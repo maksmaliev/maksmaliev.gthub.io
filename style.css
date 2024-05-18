@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1 {    	
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+p {
+    color: aquamarine;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+}
