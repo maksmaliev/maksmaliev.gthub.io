@@ -1,18 +1,19 @@
-body {
-    background-color: aliceblue;
+html {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.begbukv{
+    font-size: 20px;
     text-align: center;
 }
 
-h1 {    	
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-}
-
-p {
-    color: aquamarine;
-    text-align: center;
-}
-
-button {
+.text{
     text-align: center;
 }
